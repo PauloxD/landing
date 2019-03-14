@@ -4,7 +4,7 @@ ios_app_id                                : 1234793120                          
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    : https://skatesapp.wordpress.com/privacy/                                       # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
-terms_download_link                       : https://skatesapp.wordpress.com/terms-of-use/
+terms_download_link                       : _layouts/terms.html  #https://skatesapp.wordpress.com/terms-of-use/
 FAQ_download_link                         : https://skatesapp.wordpress.com/frequently-asked-questions/
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
@@ -61,7 +61,12 @@ features                                  :
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
+#Terms List
 
+terms                                     :
+
+  - title                                 :Test Title
+  - description                           :Test description
 
 # Theme Settings
 topbar_color                              : "#ffffff"
