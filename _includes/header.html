@@ -16,7 +16,13 @@
 	<nav>
 		<ul>
 			{% if site.presskit_download_link %}
-			<li><a href="{{ site.presskit_download_link }}">Press Kit</a></li>
+			<li><a href="{{ site.presskit_download_link }}">Privacy</a></li>
+			{% endif %}
+			{% if site.terms_download_link %}
+			<li><a href="{{ site.terms_download_link }}">Terms of Use</a></li>
+			{% endif %}
+			{% if site.FAQ_download_link %}
+			<li><a href="{{ site.FAQ_download_link }}">FAQ</a></li>
 			{% endif %}
 		</ul>
 	</nav>
