@@ -10,8 +10,8 @@ FAQ_download_link                         : https://skatesapp.wordpress.com/freq
 
 app_icon                                  : assets/Icon-App-1024x1024.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Skates                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Base Value Calculator for Figure Skating.
+app_price                                 : Start your subscription now                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : A Base Value Calculator for Figure Skating, Pairs, Ice Dance, and Solo Ice Dance.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
