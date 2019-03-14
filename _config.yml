@@ -37,37 +37,25 @@ features                                  :
     description                           : Designed to score any program, for any skater, anywhere.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Made for iPhone
+    description                           : Skates has been built exclusively for iPhone.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Smart
+    description                           : No need to understand how scores are calculated. Simply enter your elements, and let Skates do all the work.
+    fontawesome_icon_name                 : brain
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Continuosly Updated
+    description                           : Skates is regularly kept up to date with all ISU scales of values.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Grade of Execution
+    description                           : Although not required, Skates can adjust values with Grade of Execution (GOE) values, if you would like to gain a complete element score.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Look up
+    description                           : You can grab a quick look at a particular element, just by searching for it. You can even apply levels, and GOE values and see, live, how you can build your score.
+    fontawesome_icon_name                 : search
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -97,13 +85,13 @@ app_description_color                     : "#666666"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#ff2d55"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
-footer_text_color                         : "#ff2d55"
+footer_text_color                         : "#ffffff"
 
 
 
