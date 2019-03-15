@@ -1,0 +1,11 @@
+---
+layout: default
+---
+{{ include head.html }}
+<h1>{{ site.terms }}</h1>
+
+<div class="textContainer">
+  {{% for content in site %}}
+  <h3>{{ content.title }}</h3>
+  <p> {{content.description }}</p>
+ </div>
